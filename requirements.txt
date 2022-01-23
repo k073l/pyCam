@@ -1,0 +1,5 @@
+numpy~=1.21.3
+opencv-python~=4.5.4.58
+Pillow~=8.4.0
+pyvirtualcam~=0.9.0
+PyYAML~=6.0
